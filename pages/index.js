@@ -11,7 +11,7 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Yenileniyoruz!" />
+        <Header title="Tarem - Yenileniyoruz!" />
         <p className="description">
           Çok Yakında<code>Burada.</code>
         </p>
